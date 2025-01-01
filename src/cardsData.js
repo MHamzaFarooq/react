@@ -1,0 +1,32 @@
+export const cardsData = [
+  {
+    id: 1,
+    img: "totalUsers",
+    total: 18,
+    label: "Total Users",
+    active: 17,
+    activeLabel: "Active",
+    Deactive: 1,
+    deactiveLabel: "Deactive",
+  },
+  {
+    id: 2,
+    img: "totalProducts",
+    total: 38,
+    label: "Total Products",
+    active: 32,
+    activeLabel: "Subscribed",
+    Deactive: 6,
+    deactiveLabel: "Unsbscribed",
+  },
+  {
+    id: 3,
+    img: "totalApiKeys",
+    total: 19,
+    label: "Total API Keys",
+    active: 18,
+    activeLabel: "Active",
+    Deactive: 1,
+    deactiveLabel: "Deactive",
+  },
+];
